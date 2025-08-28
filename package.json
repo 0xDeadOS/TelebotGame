@@ -1,0 +1,18 @@
+{
+  "name": "telebotgame",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "dotenv": "^17.2.1",
+    "grammy": "^1.38.1",
+    "nodemon": "^3.1.10",
+    "sqlite3": "^5.1.7"
+  }
+}
