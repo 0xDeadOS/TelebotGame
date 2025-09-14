@@ -64,4 +64,4 @@ pids
 # TypeScript build
 *.tsbuildinfo
 
-database/*.db
+database/*.json
